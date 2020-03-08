@@ -1,2 +1,2 @@
 # easyphpframe
-一个简单的php框架
+a easy php framework
